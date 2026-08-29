@@ -5,13 +5,13 @@
 > قائمة منتقاة لأدوات ذكاء اصطناعي عملية في البرمجة والكتابة والبحث والإنتاجية والتصميم والأتمتة والتسويق وغيرها.
 
 <!-- counts:start -->
-![Tools](https://img.shields.io/badge/tools-120-informational)
+![Tools](https://img.shields.io/badge/tools-121-informational)
 ![Categories](https://img.shields.io/badge/categories-14-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
-عدد أدوات الذكاء الاصطناعي أكبر من أن يجرّبها أحد. هذه هي النسخة المختصرة: 120 أداة تستحق
+عدد أدوات الذكاء الاصطناعي أكبر من أن يجرّبها أحد. هذه هي النسخة المختصرة: 121 أداة تستحق
 المعرفة، مرتّبة حسب المهمة التي تريد إنجازها.
 
 كل مدخل يرتبط مباشرة بموقع المنتج نفسه، ويحمل وسم تسعير، ووصفًا كُتب خصيصًا لهذه القائمة
@@ -21,7 +21,7 @@
 بإشراف [TiorAI](https://tiorai.com/)، وعملها اليومي فهرسة أدوات الذكاء الاصطناعي.
 
 <!-- last-reviewed:start -->
-**آخر مراجعة:** 2026-08-18
+**آخر مراجعة:** 2026-08-29
 <!-- last-reviewed:end -->
 
 ## دليل الوسوم
@@ -64,6 +64,7 @@
 
 آخر خمسة تغييرات. وما قبلها ينتقل إلى [CHANGELOG.md](CHANGELOG.md).
 
+- **2026-08-29** — أُضيف Agent QA إلى قسم الأتمتة والوكلاء.
 - **2026-08-18** — الإصدار الأول. 120 أداة في 14 قسمًا، وكل رابط جرى فحصه.
 
 ## المساعدات الذكية
@@ -240,6 +241,7 @@
 
 بناة تدفقات العمل وأطر الوكلاء وأتمتة المتصفح.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** — يحوّل سيناريوهات اللغة الطبيعية إلى اختبارات انحدار للويب وAndroid وiOS؛ متاح المصدر بموجب FSL-1.1-ALv2 ويتحول إلى Apache-2.0 بعد عامين. `Free` `CLI`
 - **[AutoGPT](https://agpt.co/)** — مشروع الوكلاء المستقلين المبكر، وصار منصة لبناء تدفقات الوكلاء وتشغيلها. `Open Source` `Web` `CLI`
 - **[Browse AI](https://www.browse.ai/)** — كاشطات بيانات بالنقر تراقب صفحة وتصدّر بيانات منظَّمة وفق جدول زمني. `Freemium` `Web` `Browser Extension`
 - **[Gumloop](https://www.gumloop.com/)** — لوحة عُقد تجلس فيها استدعاءات النماذج جنبًا إلى جنب مع خطوات الأتمتة المعتادة. `Freemium` `Web`

@@ -5,14 +5,14 @@
 > A curated list of practical AI tools for coding, writing, research, productivity, design, automation, marketing, and more.
 
 <!-- counts:start -->
-![Tools](https://img.shields.io/badge/tools-120-informational)
+![Tools](https://img.shields.io/badge/tools-121-informational)
 ![Categories](https://img.shields.io/badge/categories-14-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
 [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)](LICENSE)
 
 There are far more AI tools than anyone can reasonably evaluate. This is the short version:
-120 tools worth knowing about, grouped by the job you are trying to get done.
+121 tools worth knowing about, grouped by the job you are trying to get done.
 
 Every entry links straight to the product's own site, carries a pricing label, and has a
 description written for this list rather than lifted from a vendor homepage. Tools that have
@@ -21,7 +21,7 @@ shut down, been absorbed, or quietly renamed are removed or corrected instead of
 Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a living.
 
 <!-- last-reviewed:start -->
-**Last reviewed:** 2026-08-18
+**Last reviewed:** 2026-08-29
 <!-- last-reviewed:end -->
 
 ## Contents
@@ -52,6 +52,7 @@ Maintained by [TiorAI](https://tiorai.com/), which catalogues AI tools for a liv
 
 The five most recent changes. Older ones move to [CHANGELOG.md](CHANGELOG.md).
 
+- **2026-08-29** — Added Agent QA to AI automation and agents.
 - **2026-08-18** — First release. 120 tools across 14 categories, every link checked.
 
 ## AI assistants
@@ -228,6 +229,7 @@ Prospecting, revenue intelligence, and customer-facing agents.
 
 Workflow builders, agent frameworks, and browser automation.
 
+- **[Agent QA](https://github.com/vostride/agent-qa)** — Turns natural-language scenarios into regression tests for web, Android, and iOS; source-available under FSL-1.1-ALv2 with delayed Apache-2.0 conversion. `Free` `CLI`
 - **[AutoGPT](https://agpt.co/)** — The early autonomous agent project, now a platform for building and running agent workflows. `Open Source` `Web` `CLI`
 - **[Browse AI](https://www.browse.ai/)** — Point-and-click scrapers that watch a page and emit structured data on a schedule. `Freemium` `Web` `Browser Extension`
 - **[Gumloop](https://www.gumloop.com/)** — Node-based canvas where model calls sit alongside ordinary automation steps. `Freemium` `Web`
