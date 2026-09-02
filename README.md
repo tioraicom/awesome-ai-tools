@@ -198,6 +198,7 @@ Interface design, branding, and site building.
 
 Content optimisation, social scheduling, and audience research.
 
+- **[BulkPublish](https://www.bulkpublish.com/)** — API for AI-agent workflows that plan, adapt, review, schedule, and publish social media content across channels. `Web` `API`
 - **[Brandwatch](https://www.brandwatch.com/)** — Social listening across public conversation, with clustering and sentiment analysis. `Paid` `Web`
 - **[Clearscope](https://www.clearscope.io/)** — Grades draft content against what already ranks, used mainly by editorial teams. `Paid` `Web`
 - **[Frase](https://www.frase.io/)** — Builds briefs from search results, then drafts against the brief. `Paid` `Free Trial` `Web`
