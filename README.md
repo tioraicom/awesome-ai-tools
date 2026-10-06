@@ -153,6 +153,7 @@ Generating, editing, and cleaning up still images.
 Generation, avatars, and editing.
 
 - **[Captions](https://captions.ai/)** — Phone-first editor for talking-head clips: subtitles, eye contact correction, dubbing. `Freemium` `iOS` `Android` `Web`
+- **[Clout](https://tryclout.ai/)** — Creates AI characters and generates images and faceless videos for creators managing social content. `Paid` `Web`
 - **[Descript](https://www.descript.com/)** — Edits video by editing the transcript; delete a sentence and the footage goes with it. `Freemium` `Web` `Windows` `macOS`
 - **[D-ID](https://www.d-id.com/)** — Turns a still portrait and a script into a talking avatar, with an API behind it. `Freemium` `Web` `API`
 - **[HeyGen](https://www.heygen.com/)** — Avatar presenters, and translation that resyncs lip movement to the new language. `Freemium` `Web` `API` · [vs D-ID](https://tiorai.com/compare/d-id-vs-heygen/)
