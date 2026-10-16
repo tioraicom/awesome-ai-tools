@@ -123,6 +123,8 @@ Literature search, paper reading, and evidence checking.
 
 Meetings, notes, scheduling, and everyday desktop work.
 
+- **[audien.to](https://audien.to/)** — Turns recordings into speaker-aware transcripts, meeting minutes, show notes, and drafts with timestamps linking back to source passages. `Freemium` `Web`
+
 - **[Bardeen](https://www.bardeen.ai/)** — Browser automations that move data between SaaS tools without writing scripts. `Freemium` `Browser Extension` `Web`
 - **[Fireflies.ai](https://fireflies.ai/)** — Joins calls, transcribes them, and makes the archive searchable across a team. `Freemium` `Web`
 - **[Krisp](https://krisp.ai/)** — Strips background noise and echo from calls on-device, and takes meeting notes. `Freemium` `Windows` `macOS`
