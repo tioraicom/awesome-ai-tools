@@ -125,6 +125,7 @@ Meetings, notes, scheduling, and everyday desktop work.
 
 - **[Bardeen](https://www.bardeen.ai/)** — Browser automations that move data between SaaS tools without writing scripts. `Freemium` `Browser Extension` `Web`
 - **[Fireflies.ai](https://fireflies.ai/)** — Joins calls, transcribes them, and makes the archive searchable across a team. `Freemium` `Web`
+- **[JobEmerge](https://www.jobemerge.work/)** — Checks job fit, edits and translates resumes, tracks applications, and runs text mock interviews. `Freemium` `Web`
 - **[Krisp](https://krisp.ai/)** — Strips background noise and echo from calls on-device, and takes meeting notes. `Freemium` `Windows` `macOS`
 - **[Motion](https://www.usemotion.com/)** — Rebuilds your calendar automatically as tasks slip and meetings move. `Paid` `Free Trial` `Web` `iOS` `Android`
 - **[Notion AI](https://www.notion.com/product/ai)** — Writing, summarising, and search across a Notion workspace and connected apps. `Paid` `Web` `Windows` `macOS` `iOS` `Android` · [alternatives](https://tiorai.com/alternatives/notion-ai-alternatives/)
