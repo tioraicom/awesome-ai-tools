@@ -82,6 +82,7 @@ Editors, agents, and review tools that write or read code.
 - **[Cursor](https://cursor.com/)** — Editor built around codebase-aware chat and multi-file edits. `Freemium` `Windows` `macOS` `Linux` · [vs GitHub Copilot](https://tiorai.com/compare/cursor-ai-vs-github-copilot/)
 - **[Devin](https://devin.ai/)** — Cognition's coding agent, and now the desktop IDE that replaced Windsurf. `Paid` `Web` `Windows` `macOS` `Linux`
 - **[GitHub Copilot](https://github.com/features/copilot)** — Completion, chat, and pull request help inside common editors and on GitHub itself. `Freemium` `VS Code` `JetBrains` `CLI`
+- **[Mel – the agentic terminal](https://www.openmel.dev)** — Terminal with a team of AI agents that plan, write and test code, with configurable approvals for edits and commands. `Paid` `Windows` `macOS` `Linux` `VS Code`
 - **[Replit](https://replit.com/)** — Browser IDE with an agent that scaffolds, runs, and hosts projects without local setup. `Freemium` `Web` · [alternatives](https://tiorai.com/alternatives/replit-ai-alternatives/)
 - **[Tabnine](https://www.tabnine.com/)** — Code completion with self-hosted and air-gapped deployment for regulated teams. `Freemium` `VS Code` `JetBrains` · [vs Cursor](https://tiorai.com/compare/cursor-ai-vs-tabnine/)
 
